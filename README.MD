@@ -1,9 +1,9 @@
 # GAMES:
 
 ## 1. TIC TAC TOE
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/PYGAME/TIC_TAC_TOE/tres1_250.jpg)_
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/PYGAME/TIC_TAC_TOE/tres2_250.jpg)_
-![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/PYGAME/TIC_TAC_TOE/tres3_250.jpg)
+![](https://github.com/DamianPyCoder/Pygame__Game_x2__GalaxyGuardians_TicTacToe/blob/main/TIC_TAC_TOE/tres1_250.jpg)_
+![](https://github.com/DamianPyCoder/Pygame__Game_x2__GalaxyGuardians_TicTacToe/blob/main/TIC_TAC_TOE/tres2_250.jpg)_
+![](https://github.com/DamianPyCoder/Pygame__Game_x2__GalaxyGuardians_TicTacToe/blob/main/TIC_TAC_TOE/tres3_250.jpg)
 
 Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.  
 https://en.wikipedia.org/wiki/Tic-tac-toe
